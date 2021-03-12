@@ -1,5 +1,6 @@
 # Intro
 Welcome to the hr-puzzle container image.
+
 Can you solve the riddles and get the application code?
 
 Try it:
